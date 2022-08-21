@@ -45,7 +45,7 @@ img {
 /* Start - container */
 
 .wrapper {
-  margin: 0 auto;
+  margin: 0;
   background-color: var(--background-white);
 }
 
